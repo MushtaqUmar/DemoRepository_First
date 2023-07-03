@@ -1,6 +1,6 @@
 error.log
 *.log
-checkfolder
-/dr
+checkfolder/
+/dr/
 
 
